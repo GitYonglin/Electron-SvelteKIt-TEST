@@ -1,0 +1,10 @@
+{
+  "version": "v1",
+  "packages": {
+    "electron-main-test": {
+      "version": "0.0.1",
+      "signature": "10b4952784d0504f09200ed590ddbd4a",
+      "file": true
+    }
+  }
+}

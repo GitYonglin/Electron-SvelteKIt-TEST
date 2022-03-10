@@ -1,0 +1,6 @@
+{
+  "dev": {
+    "outDir": ".electron",
+    "port": 3000
+  }
+}
